@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675185244827",
+    "project_id": "twibbonislami",
+    "storage_bucket": "twibbonislami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675185244827:android:25afe85f1e1dc81057a43e",
+        "android_client_info": {
+          "package_name": "com.raidev.twibbonislami.bingkaifoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675185244827-brvkkb776dr1nfrlpq1dttas16p5qgsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAU7SSah1tJz5ZIxceTm9imbKbU3Cp76I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675185244827-brvkkb776dr1nfrlpq1dttas16p5qgsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
